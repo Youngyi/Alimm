@@ -6,10 +6,13 @@
 |E-mail|yyangcp@ust.hk
 
 
-## Predata.py 是处理数据的。class就是 predata<\br>
+## Predata.py 是处理数据的。class就是 predata
 ## Model.py 是套用模型。
 ## 直接运行 model.py
 ### 另一个base.py 文件是网上找的，目的是看特征工程
+```
+Python3-> numpy panda
+```
 user - shop- item
 --------
 
